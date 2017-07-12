@@ -1,0 +1,11 @@
+﻿<Window x:Class="Universal_SQL_Watecher.messageWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Czy zapisać?" Height="140" Width="300" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Wprowadzone zmiany nie zostały zapisane.              Czy chcesz zapisać zmiany?" VerticalAlignment="Top" Height="43" Width="272" Margin="10,-1,0,0" FontSize="14"/>
+        <Button x:Name="takButton" Content="TAK" HorizontalAlignment="Left" Margin="115,79,0,0" VerticalAlignment="Top" Width="75" Click="takButton_Click"/>
+        <Button x:Name="nieButton" Content="NIE" HorizontalAlignment="Left" Margin="207,79,0,0" VerticalAlignment="Top" Width="75"/>
+
+    </Grid>
+</Window>

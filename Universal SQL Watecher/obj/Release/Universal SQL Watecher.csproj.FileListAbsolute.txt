@@ -1,0 +1,15 @@
+C:\Users\mARCIN\Documents\Visual Studio 2013\Projects\Universal SQL Watecher\Universal SQL Watecher\bin\Release\Universal SQL Watecher.exe.config
+C:\Users\mARCIN\Documents\Visual Studio 2013\Projects\Universal SQL Watecher\Universal SQL Watecher\bin\Release\Universal SQL Watecher.exe
+C:\Users\mARCIN\Documents\Visual Studio 2013\Projects\Universal SQL Watecher\Universal SQL Watecher\bin\Release\Universal SQL Watecher.pdb
+C:\Users\mARCIN\Documents\Visual Studio 2013\Projects\Universal SQL Watecher\Universal SQL Watecher\obj\Release\MainWindow.baml
+C:\Users\mARCIN\Documents\Visual Studio 2013\Projects\Universal SQL Watecher\Universal SQL Watecher\obj\Release\MainWindow.g.cs
+C:\Users\mARCIN\Documents\Visual Studio 2013\Projects\Universal SQL Watecher\Universal SQL Watecher\obj\Release\App.g.cs
+C:\Users\mARCIN\Documents\Visual Studio 2013\Projects\Universal SQL Watecher\Universal SQL Watecher\obj\Release\Universal SQL Watecher_MarkupCompile.cache
+C:\Users\mARCIN\Documents\Visual Studio 2013\Projects\Universal SQL Watecher\Universal SQL Watecher\obj\Release\Universal SQL Watecher.g.resources
+C:\Users\mARCIN\Documents\Visual Studio 2013\Projects\Universal SQL Watecher\Universal SQL Watecher\obj\Release\Universal_SQL_Watecher.Properties.Resources.resources
+C:\Users\mARCIN\Documents\Visual Studio 2013\Projects\Universal SQL Watecher\Universal SQL Watecher\obj\Release\Universal SQL Watecher.csproj.GenerateResource.Cache
+C:\Users\mARCIN\Documents\Visual Studio 2013\Projects\Universal SQL Watecher\Universal SQL Watecher\obj\Release\Universal SQL Watecher.exe
+C:\Users\mARCIN\Documents\Visual Studio 2013\Projects\Universal SQL Watecher\Universal SQL Watecher\obj\Release\Universal SQL Watecher.pdb
+C:\Users\mARCIN\Documents\Visual Studio 2013\Projects\Universal SQL Watecher\Universal SQL Watecher\obj\Release\Universal SQL Watecher.csprojResolveAssemblyReference.cache
+C:\Users\mARCIN\Documents\Visual Studio 2013\Projects\Universal SQL Watecher\Universal SQL Watecher\obj\Release\messageWindow.baml
+C:\Users\mARCIN\Documents\Visual Studio 2013\Projects\Universal SQL Watecher\Universal SQL Watecher\obj\Release\messageWindow.g.cs

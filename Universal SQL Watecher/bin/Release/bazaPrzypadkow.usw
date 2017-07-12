@@ -1,0 +1,3 @@
+Wiadomosci;109.231.37.8;5432;bank_db;bank_db123;bankDB;RelatedID;Read;<10;True;select "Read","RelatedID" from "Messages";450000000
+Pozyczka;109.231.37.8;5432;bank_db;bank_db123;bankDB;SalesIncomeTax2YearsBack;AgreementToCheckBIKDB;<100;True;select "SalesIncomeTax2YearsBack","AgreementToCheckBIKDB" from "Loans";50000000
+Zabezpieczenie Pozyczki;109.231.37.8;5432;bank_db;bank_db123;bankDB;CarLicensePlateNo;IsPledger;=45645;False;select "CarLicensePlateNo","IsPledger" from "LoanSecurities";50000000

@@ -1,0 +1,28 @@
+C:\Users\mARCIN\Documents\Visual Studio 2013\Projects\Universal SQL Watecher\Universal SQL Watecher\bin\Debug\Universal SQL Watecher.exe.config
+C:\Users\mARCIN\Documents\Visual Studio 2013\Projects\Universal SQL Watecher\Universal SQL Watecher\bin\Debug\Universal SQL Watecher.exe
+C:\Users\mARCIN\Documents\Visual Studio 2013\Projects\Universal SQL Watecher\Universal SQL Watecher\bin\Debug\Universal SQL Watecher.pdb
+C:\Users\mARCIN\Documents\Visual Studio 2013\Projects\Universal SQL Watecher\Universal SQL Watecher\obj\Debug\Universal SQL Watecher.csprojResolveAssemblyReference.cache
+C:\Users\mARCIN\Documents\Visual Studio 2013\Projects\Universal SQL Watecher\Universal SQL Watecher\obj\Debug\MainWindow.baml
+C:\Users\mARCIN\Documents\Visual Studio 2013\Projects\Universal SQL Watecher\Universal SQL Watecher\obj\Debug\MainWindow.g.cs
+C:\Users\mARCIN\Documents\Visual Studio 2013\Projects\Universal SQL Watecher\Universal SQL Watecher\obj\Debug\App.g.cs
+C:\Users\mARCIN\Documents\Visual Studio 2013\Projects\Universal SQL Watecher\Universal SQL Watecher\obj\Debug\Universal SQL Watecher_MarkupCompile.cache
+C:\Users\mARCIN\Documents\Visual Studio 2013\Projects\Universal SQL Watecher\Universal SQL Watecher\obj\Debug\Universal SQL Watecher.g.resources
+C:\Users\mARCIN\Documents\Visual Studio 2013\Projects\Universal SQL Watecher\Universal SQL Watecher\obj\Debug\Universal_SQL_Watecher.Properties.Resources.resources
+C:\Users\mARCIN\Documents\Visual Studio 2013\Projects\Universal SQL Watecher\Universal SQL Watecher\obj\Debug\Universal SQL Watecher.csproj.GenerateResource.Cache
+C:\Users\mARCIN\Documents\Visual Studio 2013\Projects\Universal SQL Watecher\Universal SQL Watecher\obj\Debug\Universal SQL Watecher.exe
+C:\Users\mARCIN\Documents\Visual Studio 2013\Projects\Universal SQL Watecher\Universal SQL Watecher\obj\Debug\Universal SQL Watecher.pdb
+C:\Users\mARCIN\Documents\Visual Studio 2013\Projects\Universal SQL Watecher\Universal SQL Watecher\obj\Debug\messageWindow.baml
+C:\Users\mARCIN\Documents\Visual Studio 2013\Projects\Universal SQL Watecher\Universal SQL Watecher\obj\Debug\messageWindow.g.cs
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Universal SQL Watecher\Universal SQL Watecher\bin\Debug\Universal SQL Watecher.exe.config
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Universal SQL Watecher\Universal SQL Watecher\obj\Debug\Universal SQL Watecher.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Universal SQL Watecher\Universal SQL Watecher\obj\Debug\Universal SQL Watecher.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Universal SQL Watecher\Universal SQL Watecher\obj\Debug\Universal SQL Watecher.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Universal SQL Watecher\Universal SQL Watecher\obj\Debug\MainWindow.baml
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Universal SQL Watecher\Universal SQL Watecher\obj\Debug\messageWindow.baml
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Universal SQL Watecher\Universal SQL Watecher\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Universal SQL Watecher\Universal SQL Watecher\obj\Debug\messageWindow.g.cs
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Universal SQL Watecher\Universal SQL Watecher\obj\Debug\App.g.cs
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Universal SQL Watecher\Universal SQL Watecher\obj\Debug\Universal SQL Watecher_MarkupCompile.cache
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Universal SQL Watecher\Universal SQL Watecher\obj\Debug\Universal SQL Watecher.g.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Universal SQL Watecher\Universal SQL Watecher\obj\Debug\Universal_SQL_Watecher.Properties.Resources.resources
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\Universal SQL Watecher\Universal SQL Watecher\obj\Debug\Universal SQL Watecher.csproj.GenerateResource.Cache
